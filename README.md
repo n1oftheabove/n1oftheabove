@@ -1,16 +1,22 @@
-### Hi there 👋
+[![Header](https://github.com/n1oftheabove/n1oftheabove/blob/main/img/IMG_4163_1.JPG?raw=true "Header")](https://github.com/n1oftheabove)
 
-<!--
-**n1oftheabove/n1oftheabove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Actual text -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<hr>
+<p align="center">
+<i>Hey there! I'm Flo Titze. I get dramatic lemur eyes for at all things related to making data speak as well as tinkering with electronics (Maker culture!).</i>
+<p />
+<p align="center">
+<i>Currently working as Data Analyst Teacher @<a href="https://www.ironhack.com/de/berlin">Ironhack Berlin</a> </i>
+<p>
+<p />
+<p align="center">
+Let's connect!
+<a href="https://twitter.com/n1oftheabove" alt="Twitter"><img src="https://github.com/n1oftheabove/n1oftheabove/blob/main/img/twitter-fill.svg"></a>
+<a href="https://www.linkedin.com/in/florian-titze/" alt="Linkedin"><img src="https://github.com/n1oftheabove/n1oftheabove/blob/main/img/linkedin-box-fill.svg">     </a>
+</p>
+</hr>
