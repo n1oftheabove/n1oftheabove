@@ -11,7 +11,7 @@
 <i>Hey there! I'm Flo Titze. I get dramatic lemur eyes for at all things related to making data speak as well as tinkering with electronics (Maker culture!).</i>
 <p />
 <p align="center">
-<i>Currently working as Data Analyst Teacher @<a href="https://www.ironhack.com/de/berlin">Ironhack Berlin</a> </i>
+<i>Currently working as Data Scientist at <a href="https://www.plan-d.com/">Plan D</a> </i> in Berlin.
 <p>
 <p />
 <p align="center">
